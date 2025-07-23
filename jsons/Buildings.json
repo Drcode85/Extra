@@ -1,15 +1,12 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "Clay House",
 		"cost": 480,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
+		"maintenance": 2,
+		"uniques": ["Must have an owned [Marsh] within [3] tiles"],
 		"requiredTech": "Horseback Riding"
 	},
 	{
