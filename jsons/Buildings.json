@@ -6,8 +6,8 @@
 		"culture": 12,
 		"science": 12,
 		"maintenance": 2,
-		"uniques": ["Must have an owned [Marsh] within [3] tiles"],
-		"requiredTech": "Horseback Riding"
+		"uniques": ["Must have an owned [Marsh] within [3] tiles", "Limited to [3] per Civilization", "Provides [+1] [Porcelain]", "[+2 Production, +1 Food] from [Marsh] tiles"],
+		"requiredTech": "Pottery"
 	},
 	{
 		"name": "Breeders",
