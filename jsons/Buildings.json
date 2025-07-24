@@ -1,16 +1,15 @@
 [
 	{
 		"name": "Clay House",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
+		"cost": 180,
+		"Production": 2,
+		"Gold": 1,
 		"maintenance": 2,
 		"uniques": ["Must have an owned [Marsh] within [3] tiles", "Limited to [3] per Civilization", "Provides [+1] [Porcelain]", "[+2 Production, +1 Food] from [Marsh] tiles"],
 		"requiredTech": "Pottery"
 	},
 	{
-		"name": "Breeders",
+		"name": "Train Hub",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Aliens",
 		"cost": 80,
