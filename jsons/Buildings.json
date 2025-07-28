@@ -1,13 +1,23 @@
 [
 	{
 		"name": "Clay House",
-		"cost": 180,
+		"cost": 150,
 		"Production": 2,
 		"Gold": 1,
-		"maintenance": 2,
+		"maintenance": 3,
 		"uniques": ["Must have an owned [Marsh] within [3] tiles", "Limited to [3] per Civilization", "Provides [+1] [Porcelain]", "[+2 Production, +1 Food] from [Marsh] tiles"],
 		"requiredTech": "Pottery"
 	},
+	
+	{
+		"name": "Jewelry Store",
+		"cost": 150,
+		"Production": 1,
+		"Gold": 2,
+		"maintenance": 3,
+		"uniques": ["Must have an owned [Gems] within [3] tiles", "Must have an owned [Pearls] within [3] tiles", "Limited to [3] per Civilization", "Provides [+1] [Jewelry]"],
+		"requiredTech": "Currency"
+	}, 
 	{
 		"name": "Train Hub",
 		"replaces": "Aqueduct",
