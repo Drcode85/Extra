@@ -21,7 +21,7 @@
 	{
 		"name": "Deep Subterranean Mine",
 		"cost": 520,
-		"Production": 2,
+		"Production": 3,
 		"maintenance": 4,
 		"uniques": ["Provides [+1] [Iron]", "Provides [+1] [Coal]", "Provides [+1] [Aluminum]", "Provides [+1] [Uranium]", "Limited to [3] per Civilization"],
 		"requiredTech": "Robotics"
