@@ -4,7 +4,7 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 185,
-		"uniques": ["Founds a new puppet city <on foreign continents> <by consuming this unit>", "[+1] population [in this city]", "Excess Food converted to Production when under construction"],
+		"uniques": ["Founds a new puppet city <on foreign continents> <by consuming this unit>", "[+1] population [in this city] <upon founding a city>", "Excess Food converted to Production when under construction"],
 		"hurryCostModifier": 10
 	}
 ]
