@@ -19,13 +19,11 @@
 		"requiredTech": "Currency"
 	}, 
 	{
-		"name": "Train Hub",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Deep Subterranean Mine",
+		"cost": 520,
+		"Production": 2,
+		"maintenance": 4,
+		"uniques": ["Provides [+1] [Iron]", "Provides [+1] [Coal]", "Provides [+1] [Aluminum]", "Provides [+1] [Uranium]", "Limited to [3] per Civilization"],
+		"requiredTech": "Robotics"
 	}
 ]
