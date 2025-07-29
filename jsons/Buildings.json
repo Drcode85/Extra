@@ -2,10 +2,10 @@
 	{
 		"name": "Clay House",
 		"cost": 150,
-		"Production": 2,
-		"Gold": 1,
+		"Production": 3,
+		"Gold": 2,
 		"maintenance": 3,
-		"uniques": ["Must have an owned [Marsh] within [3] tiles", "Limited to [3] per Civilization", "Provides [+1] [Porcelain]", "[+2 Production] from [Marsh] tiles"],
+		"uniques": ["Must have an owned [Marsh] within [3] tiles", "Limited to [3] per Civilization", "Provides [+1] [Porcelain]"],
 		"requiredTech": "Pottery"
 	},
 	
