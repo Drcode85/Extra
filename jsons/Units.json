@@ -1,10 +1,13 @@
 [
 	{
-		"name": "Penal Colony",
-		"unitType": "Civilian",
-		"movement": 2,
-		"cost": 185,
-		"uniques": ["Founds a new puppet city <on foreign continents> <by consuming this unit>", "[+1] population [in this city] <upon founding a city>", "Excess Food converted to Production when under construction"],
-		"hurryCostModifier": 10
+		"name": "Nuclear Supercarrier",
+		"unitType": "Aircraft Carrier",
+		"movement": 7,
+		"strength": 70,
+		"interceptRange": 1,
+		"cost": 425,
+		"requiredResource": "Uranium",
+		"requiredTech": "Robotics",
+		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units", "[100]% chance to intercept air attacks", "Can see invisible [Submarine] units"]
 	}
 ]
