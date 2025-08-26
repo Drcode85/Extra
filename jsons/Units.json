@@ -6,6 +6,7 @@
 		"strength": 70,
 		"interceptRange": 1,
 		"cost": 425,
+		"upgradesTo": "Carrier",
 		"requiredResource": "Uranium",
 		"requiredTech": "Robotics",
 		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units", "[100]% chance to intercept air attacks", "Can see invisible [Submarine] units"]
