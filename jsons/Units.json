@@ -9,6 +9,6 @@
 		"upgradesTo": "Carrier",
 		"requiredResource": "Uranium",
 		"requiredTech": "Robotics",
-		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units", "[100]% chance to intercept air attacks", "Can see invisible [Submarine] units"]
+		"uniques": ["Cannot attack", "Can carry [3] [Aircraft] units", "[+5]% Strength bonus for [Water] units within [2] tiles", "[100]% chance to intercept air attacks", "Can see invisible [Submarine] units"]
 	}
 ]
